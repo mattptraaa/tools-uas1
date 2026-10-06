@@ -1,0 +1,9 @@
+{
+  "name": "bantuan-belajar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bantuan Belajar UT FAMILY: analisis materi, rangkuman, dan soal latihan per mata kuliah",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
